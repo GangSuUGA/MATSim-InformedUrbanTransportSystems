@@ -14,6 +14,7 @@ ________________________________________________
 
 
 ## What is MATSim? 
+ - Highly recommended watch this video: [**Introduction - Part C - What is MATSim?**](https://www.youtube.com/watch?v=VowP4f9ntCA&t=0s) 
  - MATSim is based on the **co-evolutionary principle**. **Every Travelers (agents)** repeatedly optimizes its **daily activity schedule (plans)** while in competition for space-time slots with all other agents on the transportation infrastructure. This is somewhat similar to the route assignment iterative cycle, but goes **beyond route assignment** by incorporating other choice dimensions like **time choice**, **mode choice**, or **destination choice** into the **iterative loop**.
 
  - MATSim performs integral microscopic simulation of **resulting traffic flows** and **the congestion** they produce.  
