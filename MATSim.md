@@ -1,13 +1,15 @@
 ## Reference Links: 
  - [**MATSim book**](https://www.ubiquitypress.com/site/books/e/10.5334/baw/) 
  - [**MATSim user guide (pdf)**](http://ci.matsim.org:8080/job/MATSim-Book/ws/partOne-latest.pdf) 
+ - [**MATSim training (YouTube Videos)**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX) 
 
 ________________________________________________
 ## Background of Transportation Planing: 
  - [**4-Step Model**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background:%20Traffic%204-step%20model.md) 
 
-## Why MATSim? 
-
+## Why MATSim (or Shortages of 4-Steps)? 
+ - Inefficency of the Gravity Model for some area. 
+ - Inequality of the population state of practice models assume a fairly homogeneous population. 
 
 
 
