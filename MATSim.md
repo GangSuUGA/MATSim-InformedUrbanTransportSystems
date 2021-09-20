@@ -3,7 +3,15 @@
  - [**MATSim user guide (pdf)**](http://ci.matsim.org:8080/job/MATSim-Book/ws/partOne-latest.pdf) 
 
 ________________________________________________
+## Background of Transportation Planing: 
+ - [**4-Step Model**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background:%20Traffic%204-step%20model.md) 
 
+## Why MATSim? 
+
+
+
+
+## What is MATSim? 
  - MATSim performs integral microscopic simulation of **resulting traffic flows** and **the congestion** they produce.  
 
 
