@@ -24,6 +24,31 @@ ___________________________________
 
 - **Water**: covers 75% of the Earth's surface, out of this, 97% is the salty water of the oceans and **only 3% freshwater**, most of which is locked up in the Antarctic ice sheet. (glaciers: 69%, **groundwater: 30%**, whereas **all lakes, rivers and swamps: 0.3%**. 
 
+- Although, the supply of freshwater is constantly replenished through precipitation because of the water cycle, within the last several decades, groundwater strata have been getting lower nearly 10m, scaring the groundwater finite level in the near future. 
+
+- In contrast, rising urbanization contaminates freshwater supplies, thereby triggering adverse environmental impact, which eventually alarms the survival of all living beings on Earth due to the shortage of drinkable water near future. 
+
+- **Importance of Water**: The living body metabolic (catabolism and anabolism); Plant photosynthesis and respiration; Agriculture, Home and Industry. 
+- In catabolism, water is utilized to break the bonds within large molecules to create smaller molecules, and in anabolism, water is detached from molecules to create larger molecules. 
+- Photosynthetic cells use the sun's energy to split off hydrogen from oxygen in water. Afterward, hydrogen is mixed with carbon dioxide (absorbed from air or water) to form glucose that is utilized as their food and release oxygen to balance the ecosystem. 
+
+- **Sustainable Water**: (much more scientifically and technologically advanced research and development must be applied) 
+- 1. physical and chemical treatment processes for water and wastewater treatment process, 
+- 2. environment biotechnology for use in the water resource management and bioremediation, and utilize wastewater into useful product, 
+- 3. watershed and wetland management to reduce the water loss, 
+- 4. advanced environment engineering design to mitigate the groundwater, 
+- 5. sustainable water resource development as a new source of water supply.  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
