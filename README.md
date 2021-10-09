@@ -1,4 +1,4 @@
-# [**Resilient Infrastructure Systems**]
+# Resilient Infrastructure Systems
 
 ________________________________________________
 
