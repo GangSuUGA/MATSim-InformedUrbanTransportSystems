@@ -1,6 +1,5 @@
 # Resilient Infrastructure Systems
 
-________________________________________________
 
 - Infrastructure systems support the basic needs and functions of modern industrialized society including energy, water and sewage, transportation, communications, and public facilities.  
 
