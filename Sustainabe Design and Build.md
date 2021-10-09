@@ -33,11 +33,11 @@ ___________________________________
 - Photosynthetic cells use the sun's energy to split off hydrogen from oxygen in water. Afterward, hydrogen is mixed with carbon dioxide (absorbed from air or water) to form glucose that is utilized as their food and release oxygen to balance the ecosystem. 
 
 - **Sustainable Water**: (much more scientifically and technologically advanced research and development must be applied) 
-- 1. physical and chemical treatment processes for water and wastewater treatment process, 
-- 2. environment biotechnology for use in the water resource management and bioremediation, and utilize wastewater into useful product, 
-- 3. watershed and wetland management to reduce the water loss, 
-- 4. advanced environment engineering design to mitigate the groundwater, 
-- 5. sustainable water resource development as a new source of water supply.  
+1. physical and chemical treatment processes for water and wastewater treatment process, 
+2. environment biotechnology for use in the water resource management and bioremediation, and utilize wastewater into useful product, 
+3. watershed and wetland management to reduce the water loss, 
+4. advanced environment engineering design to mitigate the groundwater, 
+5. sustainable water resource development as a new source of water supply.  
 
 
 
