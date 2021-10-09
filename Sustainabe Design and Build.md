@@ -22,6 +22,9 @@ ___________________________________
 
 - **Sustainable Transportation**: the advanced vehicle technology to be used for road, water, or air transport by using renewable and clean energy, where the infrastructure should be able to accommodate the clean fuel-operated transport to mitigate energy and traffic jam crisis. 
 
+- **Water**: covers 75% of the Earth's surface, out of this, 97% is the salty water of the oceans and only 3% freshwater, most of which is locked up in the Antarctic ice sheet. (glaciers: 69%, groundwater: 30% 
+- Whereas all lakes, rivers and swamps combined only account for a small fraction (0.3%) of the Earth's total fresh water reserves). 
+
 
 
 
