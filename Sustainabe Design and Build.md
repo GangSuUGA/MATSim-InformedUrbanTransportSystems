@@ -43,8 +43,47 @@ covers 75% of the Earth's surface, out of this, 97% is the salty water of the oc
 3. watershed and wetland management to reduce the water loss, 
 4. advanced environment engineering design to mitigate the groundwater, 
 5. sustainable water resource development as a new source of water supply.  
+_________________________________________________
 
-##
+## Environment
+
+### 2.1 Air 
+- Currently the atmospheric CO2 is 400 ppm （continues to rapid increase),  60,000 ppm means all living being will die in 30 mins. 
+- :star::star::star::star::star: [**CO2 Link**](https://netl.doe.gov/coal/carbon-storage/faqs/carbon-dioxide-101) 
+
+### 2.2 Water 
+- The conventional wastewater treatment has the lack of suspended particulate matter analysis and good analytical approaches which results in aquatic environment and agricultural land got pollutant and hence poison organisms. 
+- Monitoring spatial and temporal variability of Emerging Contaminates in wastewater and river water will become important. 
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
