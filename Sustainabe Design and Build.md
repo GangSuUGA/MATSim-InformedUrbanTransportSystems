@@ -59,7 +59,7 @@ _________________________________________________
 - A vital component in comprehending the human activities and interactions with the atmosphere is land use and land cover (LULC). 
 - While land cover refers to that which covers the earth surface, land use defines the way in which land cover is transformed. 
 - Land cover refers to artificial covers, rock/soil, water bodies, natural vegetation, and others found on the land. 
-- Land use refers to the activities of human beings and various uses which are conducted over land. (Wildlife management areas, recreation area, built-up land, and agricultural land. 
+- Land use refers to the activities of human beings and various uses which are conducted over land. (Wildlife management areas, recreation area, built-up land, and agricultural land.)  
 - The Earth's landscape has considerably been changed by a number of human activities including agriculture, urban development, and deforestation. 
 - Engaging in exhaustive agriculture can possibly cause severe environmental consequences. 
 - Forests play a major role within ecosystem balance. They reduce flooding and soil erosion. slow down surface runoff, intercepts precipitation. remove CO2 from the atmosphere, provide critical habitat for wildlife, and support biodiversity. 
