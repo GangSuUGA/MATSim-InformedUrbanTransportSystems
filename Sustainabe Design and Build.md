@@ -60,11 +60,25 @@ _________________________________________________
 - While land cover refers to that which covers the earth surface, land use defines the way in which land cover is transformed. 
 - Land cover refers to artificial covers, rock/soil, water bodies, natural vegetation, and others found on the land. 
 - Land use refers to the activities of human beings and various uses which are conducted over land. (Wildlife management areas, recreation area, built-up land, and agricultural land. 
+- The Earth's landscape has considerably been changed by a number of human activities including agriculture, urban development, and deforestation. 
+- Engaging in exhaustive agriculture can possibly cause severe environmental consequences. 
+- Forests play a major role within ecosystem balance. They reduce flooding and soil erosion. slow down surface runoff, intercepts precipitation. remove CO2 from the atmosphere, provide critical habitat for wildlife, and support biodiversity. 
 - Because of overpopulation, prople tend to shift toward sensitive areas on earth, use land without taking into consideration the slope as well as the erodibility, which eventually results to severe soil erosion. (as well as road construction) 
+- Metropolitan development hasa been connected to several environmental issues. These issues include wildlife habitat loss, pollution of water, and pollution of air. 
+- In addition to nutrients sediments, urban runoff often has toxic contaminants, which cannot only pollute water but also cause variation in temperatures and streamflow. 
+- All over the world, exhaustive agriculture and urban development in coastal areas and further inland are a key threat to marine environment biodiversity, productivity, and health. 
 
-#### Spatial Processes and Spatial Pattern Identification 
-- Spatial processes and spatial patterns identification, like the ones mentioned above, can make available answers to "where" kind of questions and can contribute to the comprehending of "why that is happening there." 
+#### Spatial Processes and Spatial Pattern Identification (for Root Cause Analysis)
+- Spatial processes and spatial patterns identification can make available answers to "where" kind of questions and can contribute to the comprehending of "why that is happening there." 
+- Different kinds of information regarding land biodiversity and degradation that are of global interest are provided by higher level analyses. 
+- Conservation of land use such as afforestation or deforestation affects the quantity of atmospheric dust within the stmosphere, as well as the carbon amount stocked in vegetation within the soil. 
+- In addition, the parameters of land surface such as surface roughness, soil moisture, leaf area index, and albedo are extremely sensitive to the conservations of land cover and affect the regional and local climate directly. 
+- It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
+
+### 2.6 Climate Change 
 - 
+
+
 
 
 
