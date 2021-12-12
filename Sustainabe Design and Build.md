@@ -73,7 +73,7 @@ _________________________________________________
 - It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
 - In addition, the parameters of land surface such as surface roughness, soil moisture, leaf area index, and albedo are extremely sensitive to the conservations of land cover and affect the regional and local climate directly. 
 
-### 2.6 Climate Change 
+### 2.4 Climate Change 
 - 
 
 
