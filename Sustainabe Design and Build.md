@@ -56,7 +56,15 @@ _________________________________________________
 - Monitoring spatial and temporal variability of Emerging Contaminates in wastewater and river water will become important. 
 
 ### 2.3 Land 
+- A vital component in comprehending the human activities and interactions with the atmosphere is land use and land cover (LULC). 
+- While land cover refers to that which covers the earth surface, land use defines the way in which land cover is transformed. 
+- Land cover refers to artificial covers, rock/soil, water bodies, natural vegetation, and others found on the land. 
+- Land use refers to the activities of human beings and various uses which are conducted over land. (Wildlife management areas, recreation area, built-up land, and agricultural land. 
+- Because of overpopulation, prople tend to shift toward sensitive areas on earth, use land without taking into consideration the slope as well as the erodibility, which eventually results to severe soil erosion. (as well as road construction) 
 
+#### Spatial Processes and Spatial Pattern Identification 
+- Spatial processes and spatial patterns identification, like the ones mentioned above, can make available answers to "where" kind of questions and can contribute to the comprehending of "why that is happening there." 
+- 
 
 
 
