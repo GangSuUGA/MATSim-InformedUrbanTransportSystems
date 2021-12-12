@@ -70,10 +70,10 @@ _________________________________________________
 
 #### Spatial Processes and Spatial Pattern Identification (for Root Cause Analysis)
 - Spatial processes and spatial patterns identification can make available answers to "where" kind of questions and can contribute to the comprehending of "why that is happening there." 
+- It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
 - Different kinds of information regarding land biodiversity and degradation that are of global interest are provided by higher level analyses. 
 - Conservation of land use such as afforestation or deforestation affects the quantity of atmospheric dust within the stmosphere, as well as the carbon amount stocked in vegetation within the soil. 
 - In addition, the parameters of land surface such as surface roughness, soil moisture, leaf area index, and albedo are extremely sensitive to the conservations of land cover and affect the regional and local climate directly. 
-- It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
 
 ### 2.6 Climate Change 
 - 
