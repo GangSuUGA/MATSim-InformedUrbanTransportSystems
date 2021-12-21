@@ -11,7 +11,7 @@ _________________________________
 ### **Forcing mechanisms or climate forcing** 
 refer to factors that are likely to shape the climate. There are either external or internal forcing mechanisms. 
 - Extenal climate forcing can either be natural, for example, volcano eruption, the Earth's orbit ot changes in solar output, anthropogenic, for instance, greenhouse dust and gases increased emissions. 
-- Internal climate forcing are natural procedures, such as, thermohaline circulation, that exist within the climate system itself (Scientifically, biosphere, lithosphere, cryosphere, hydrosphere, and atmosphere). 
+- Internal climate forcing are natural procedures, such as thermohaline circulation, that exist within the climate system itself (Scientifically, biosphere, lithosphere, cryosphere, hydrosphere, and atmosphere). 
 
 ### Internal Climate Forcing
 - Because the **ocean** has hundreds of times more mass than the atmosphere, hence, extremely high thermal inertia, it is possible for the oceanic facets of these particular circulations to create changeability on centennial timescales. 
