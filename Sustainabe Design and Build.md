@@ -28,7 +28,7 @@ refer to factors that are likely to shape the climate. There are either external
 
 ### Climate Change Evidence 
 ![image](https://user-images.githubusercontent.com/88390140/146868327-c4b02668-e258-4d52-b1d6-98ea62b45c59.png)
-- Among the most sensitive climate change iindicators are glaciers, whose size is calculated by a mass balance amid snow input and the melt output. 
+- Among the most sensitive climate change indicators are glaciers, whose size is calculated by a mass balance amid snow input and the melt output. 
 - Glacier always retreat as temperatures become warm except in the case where the partcipation of snow rises to make up for added melt. 
 ![image](https://user-images.githubusercontent.com/88390140/146868521-2373a57a-99d9-46fb-8063-a827a37113d8.png)
 - Over the last many years, the decrease in Arctic sea ice, both in thickness and extent, is more proof for rapid change in the Earth's climate. 
