@@ -1,7 +1,7 @@
 ## Book Link: 
 - [Sustainable Design and Build: Building, Energy, Roads, Bridges, Water and Sewer Systems](https://trid.trb.org/view/1583916) 
 ___________________________________ 
-### ☕ This book provides a complete reference for those engineers and scientists wishing to conduct sustainability research in all sectors of applied science and engineering. :star:
+### ☕ This book provides a complete reference for those engineers and scientists wishing to conduct sustainability research in all sectors of applied science and engineering. ☕ 
 _________________________________
 
 ## Climate Change 
@@ -39,7 +39,7 @@ refer to factors that are likely to shape the climate. There are either external
 - Hazardous airpollutants are usually emitting from fossil fuel and gas extraction and processing industries; hydrocarbon and dioxin emissions are caused by the use and combustion of petrol and diesel oil for transport; and radionuclides are released during the burning/combustion of gas, petroleum, coal, and heavy fuel oil. 
 - Excessive concentraions of these pollutants have demonstrated health, welfare, and ecological effects felt globally in addition to climate change. 
 - The changing climate is thus impacting the global environment severely, such as causing flood or draught, the influence of agricultural crop yields, affect human health, and destroy ecosystems are causing due to this climate change. 
-- **So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.** 
+- :star:**So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.**:star: 
 - Indeed, we can individually do something great by applying sustainable technologies in every sector and collectively helping to create gloval view for the development of the sustainable technology for confirming a cleaner and greener earth. 
 
 ______________________________________
