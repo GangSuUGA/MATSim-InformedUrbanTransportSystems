@@ -12,6 +12,8 @@ _________________________________
 refer to factors that are likely to shape the climate. There are either external or internal forcing mechanisms. 
 - Extenal climate forcing can either be natural, for example, volcano eruption, the Earth's orbit ot changes in solar output, anthropogenic, for instance, greenhouse dust and gases increased emissions. 
 - Internal climate forcing are natural procedures, such as, thermohaline circulation, that exist within the climate system itself (Scientifically, biosphere, lithosphere, cryosphere, hydrosphere, and atmosphere). 
+
+### Internal Climate Forcing
 - Because the **ocean** has hundreds of times more mass than the atmosphere, hence, extremely high thermal inertia, it is possible for the oceanic facets of these particular circulations to create changeability on centennial timescales. 
 - For instance, modification to ocean processes such as circulation of the **thermohaline** plays a major part in the redistribution of heat within the world's oceans, which as well takes a significant role in climate alteration. 
 - The term thermohaline is derived from the word "thermo", which refers to temperature, and "haline," which refers to the content of salt, the components which together determine the seawater density. 
@@ -33,7 +35,7 @@ refer to factors that are likely to shape the climate. There are either external
 - Based on the satellite observation, presently sea ice is decreasing at a rate of 13.2% for each decade. 
 - Other indictors of climate changing are vegetation, forest genetic resources, cloud cover and precipitation, and sea level change. 
 
-### Conclusion 
+### **Motivation and Conclusion** 
 - Despite some impact by natural process, the evidence stated that climate change is mainly caused by human activities, primarily burning fossil fuel, land-use changes, and misuse of natural resources. 
 - During the past several decades, there has been serious concern over the dangers associated with the accumulation of GHGs (Greenhouse Gases) in the atmosphere. 
 - Hazardous airpollutants are usually emitting from fossil fuel and gas extraction and processing industries; hydrocarbon and dioxin emissions are caused by the use and combustion of petrol and diesel oil for transport; and radionuclides are released during the burning/combustion of gas, petroleum, coal, and heavy fuel oil. 
