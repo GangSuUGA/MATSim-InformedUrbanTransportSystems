@@ -117,6 +117,21 @@ _________________________________________________
 - It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
 - In addition, the parameters of land surface such as surface roughness, soil moisture, leaf area index, and albedo are extremely sensitive to the conservations of land cover and affect the regional and local climate directly. 
 
+—————————————————————————————————
+
+## Energy 
+
+### 3.1 Wood 
+- Wood, the most traditional conventional energy source since ancient time, is being widely used which indeed involves a complete destruction mechanism that elimates the natural resources and disturbs environmental balance. 
+- The particular air pollutants from burning wood do cause human health problems such as asthma and heart diseases. 
+- Burning wood also create CO and CO2 (GHGs). 
+- Numerous research has been performed and revealed that particles which is the primary player for climate change. 
+- By eliminating our reliance on wood for heating and cooking on burning wood, we can make a significant contribution to reduce GHGs, and then climate change. 
+
+### 3.2 Coal 
+- **Coal** originated from remains of plants and ferns that grew in swamp area millions of years ago and is considered as the fossil fuel. 
+- Microorganism and natural chemical compounds player a vital role to decompose those tree debris burried beneath water or mud and formed peat, which mainly consist cellulose (C6H10O5)n, and finally peat turned into coal. 
+- 
 
 
 
