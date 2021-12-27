@@ -131,6 +131,7 @@ _________________________________________________
 ### 3.2 Coal [**Introduction**](https://www.energy.gov/sites/prod/files/Elem_Coal_Studyguide.pdf)
 - **Coal** originated from remains of plants and ferns that grew in swamp area millions of years ago and is considered as the fossil fuel. 
 - Microorganism and natural chemical compounds player a vital role to decompose those tree debris burried beneath water or mud and formed peat, which mainly consist cellulose (C6H10O5)n, and finally peat turned into coal. 
+- [**How is coal formed?**](http://www.coaleducation.org/q&a/how_coal_formed.htm) 
 - 
 
 
