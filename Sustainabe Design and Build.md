@@ -142,7 +142,6 @@ _________________________________________
 - Surface mining of coal totally wipe out existing plants, wrecks the traditional soil contour, disturbs natural life and living space, corrupts air quality, changes land utilizes, and, to some extent, changes whole geology of the region. 
 
 
--- 1
 
 
 
