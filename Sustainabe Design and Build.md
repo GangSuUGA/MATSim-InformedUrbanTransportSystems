@@ -117,7 +117,7 @@ _________________________________________________
 - It requires the adoption of a system method to understand the connection of environmental and social processes over space and time, and eventually cause climate changes. 
 - In addition, the parameters of land surface such as surface roughness, soil moisture, leaf area index, and albedo are extremely sensitive to the conservations of land cover and affect the regional and local climate directly. 
 
-—————————————————————————————————
+_________________________________________
 
 ## Energy 
 
@@ -132,7 +132,14 @@ _________________________________________________
 - **Coal** originated from remains of plants and ferns that grew in swamp area millions of years ago and is considered as the fossil fuel. 
 - Microorganism and natural chemical compounds player a vital role to decompose those tree debris burried beneath water or mud and formed peat, which mainly consist cellulose (C6H10O5)n, and finally peat turned into coal. 
 - [**How is coal formed?**](http://www.coaleducation.org/q&a/how_coal_formed.htm) 
-- 
+![image](https://user-images.githubusercontent.com/88390140/147510356-028b3d17-2279-421f-a963-cb02bda8d9ac.png)
+
+- The most efficient technique for coal extraction relies on the profundity and nature of the creases and the geological and environment factor components. 
+- Most of the coal obtained from surface and subterranean mines is transferred to plants for washing and stockpiling. 
+- Coal mining can be constructed either on surfave or underground or through other appropriate processes, and these are classified into several categories, surface mining, strip mining, contour mining, and underground mining. 
+- - The coal industry has some negative impacts on the environment, including air and water contamination caused during coal extraction, processing, and consumption. 
+- Apart from air contamination, consumption of coal product produces myriad amounts of hazardous waste products every year, such as fly ash, hot debris, and flue gas that contain radioactive material and other substantial metals. 
+- Surface mining of coal totally wipe out existing plants, wrecks the traditional soil contour, disturbs natural life and living space, corrupts air quality, changes land utilizes, and, to some extent, changes whole geology of the region. 
 
 
 
