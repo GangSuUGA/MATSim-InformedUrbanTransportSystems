@@ -149,7 +149,7 @@ _________________________________________
 ### How is petroleum formed? [**Blog**](https://www.eia.gov/energyexplained/oil-and-petroleum-products/) 
 - Petroleum is a unique blend of hydrocarbons, for the most part, alkanes and cycloalkanes, originated from the vast amounts of these remaining parts settled to ocean or base of lake, blending through dregs in the absence of oxygen. As more layers sank into the ocean or sewaxy substance known as kerogen, which is found in different oil reserves worldwide, and subsequently more heat, time, and pressure are given into the fluid and vaporous hydrocabons through a process called catagenesis. The arrangement of oil happens from hydrocarbon decomposition due to variety of primarily endothermic reactions at high temperature as well as pressure. There were certain supplement-rich locations where a lot of natural material settling to the sea bottom surpassed the rate of its decomposition. This brought about huge loads of natural material being covered beneath the consequent stocks, for example, shale shaped from mud. This vast natural stock later ended up plainly warmed and changed underweight into petroleum.            
  
-![image](![image](https://user-images.githubusercontent.com/88390140/147521052-22f0661b-0446-45b0-819b-f20623f83fe5.png)) 
+![image](https://user-images.githubusercontent.com/88390140/147521154-6c369e66-f705-428a-a9af-203c71d4d2a2.png)
 
 
 
