@@ -137,11 +137,17 @@ _________________________________________
 - The most efficient technique for coal extraction relies on the profundity and nature of the creases and the geological and environment factor components. 
 - Most of the coal obtained from surface and subterranean mines is transferred to plants for washing and stockpiling. 
 - Coal mining can be constructed either on surfave or underground or through other appropriate processes, and these are classified into several categories, surface mining, strip mining, contour mining, and underground mining. 
-- The coal industry has some negative impacts on the environment, including air and water contamination caused during coal extraction, processing, and consumption. 
-- Apart from air contamination, consumption of coal product produces myriad amounts of hazardous waste products every year, such as fly ash, hot debris, and flue gas that contain radioactive material and other substantial metals. 
-- Surface mining of coal totally wipe out existing plants, wrecks the traditional soil contour, disturbs natural life and living space, corrupts air quality, changes land utilizes, and, to some extent, changes whole geology of the region. 
+- **The coal industry has some negative impacts on the environment, including air and water contamination caused during coal extraction, processing, and consumption. 
+- **Apart from air contamination, consumption of coal product produces myriad amounts of hazardous waste products every year, such as fly ash, hot debris, and flue gas that contain radioactive material and other substantial metals. 
+- Surface mining of coal totally **wipe out existing plants, wrecks the traditional soil contour, disturbs natural life and living space, corrupts air quality, changes land utilizes, and, to some extent, changes whole geology of the region. 
 
 
+### 3.3 Petroleum [**Introduction**](https://www.nationalgeographic.org/encyclopedia/petroleum/) 
+- The utilization of petroleum was first invented in ancient China over 2000 years ago. In I Ching, one of the most punctual Chinese compositions refers to the use of oil in its crude from without refining, which was first found, removed, and used in parts of China in the first century BCE. 
+- The three leading oil-producing nations are Russia, Saudi Arabia, and the United States. 
+- Petroleum is a derivative formed from old fossilized natural materials, for example, **zooplankton and algae. 
+- Petroleum is a unique blend of hydrocarbons, for the most part, alkanes and cycloalkanes, originated from the vast amounts of these remaining parts settled to ocean or base of lake, blending through dregs in the absence of oxygen. As more layers sank into the ocean or sewaxy substance known as kerogen, which is found in different oil reserves worldwide, and subsequently more heat, time, and pressure are given into the fluid and vaporous hydrocabons through a process called catagenesis. The arrangement of oil happens from hydrocarbon decomposition due to variety of primarily endothermic reactions at high temperature as well as pressure. There were certain supplement-rich locations where a lot of natural material settling to the sea bottom surpassed the rate of its decomposition. This brought about huge loads of natural material being covered beneath the consequent stocks, for example, shale shaped from mud. This vast natural stock later ended up plainly warmed and changed underweight into petroleum. 
+![image](https://user-images.githubusercontent.com/88390140/147520958-84d9ff30-80e4-4ed2-919b-4d28b8e2ed01.png) 
 
 
 
