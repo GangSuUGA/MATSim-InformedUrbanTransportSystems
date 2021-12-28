@@ -151,7 +151,7 @@ _________________________________________
  
 ![image](https://user-images.githubusercontent.com/88390140/147521154-6c369e66-f705-428a-a9af-203c71d4d2a2.png)
 
-
+- Latest technologies such as seismic mapping and imaging innovation have helped reserachers for signaling out gas and petroleum fields. 
 
 
 
