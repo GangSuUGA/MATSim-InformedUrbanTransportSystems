@@ -153,6 +153,8 @@ _________________________________________
 
 
 - Latest technologies such as seismic mapping and imaging innovation have helped reserachers for signaling out gas and petroleum fields. 
+- Seismologists can expose supply of hydrocarbons by using a supersensitive sound-discharging device such as geophones, which gives bobbing movement of shake development beneath the ground. 
+- By recording the echoes and then analyzing 3D maps of them through supercomputers, it helps in finding the location of petroleum and gas fields in less time and also avoids the cost of standard exploration. 
 
 
 
