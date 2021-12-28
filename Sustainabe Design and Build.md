@@ -128,7 +128,7 @@ _________________________________________
 - Numerous research has been performed and revealed that particles which is the primary player for climate change. 
 - By eliminating our reliance on wood for heating and cooking on burning wood, we can make a significant contribution to reduce GHGs, and then climate change. 
 
-### 3.2 Coal [**Introduction**](https://www.energy.gov/sites/prod/files/Elem_Coal_Studyguide.pdf)
+### 3.2 [**Coal**](https://www.energy.gov/sites/prod/files/Elem_Coal_Studyguide.pdf)
 - **Coal** originated from remains of plants and ferns that grew in swamp area millions of years ago and is considered as the fossil fuel. 
 - Microorganism and natural chemical compounds player a vital role to decompose those tree debris burried beneath water or mud and formed peat, which mainly consist cellulose (C6H10O5)n, and finally peat turned into coal. 
 - [**How is coal formed?**](http://www.coaleducation.org/q&a/how_coal_formed.htm) 
@@ -142,11 +142,11 @@ _________________________________________
 - Surface mining of coal totally **wipe out existing plants, wrecks the traditional soil contour, disturbs natural life and living space, corrupts air quality, changes land utilizes, and, to some extent, changes whole geology of the region**. 
 
 
-### 3.3 Petroleum [**Introduction**](https://www.nationalgeographic.org/encyclopedia/petroleum/) 
+### 3.3 [**Petroleum**](https://www.nationalgeographic.org/encyclopedia/petroleum/) 
 - The utilization of petroleum was first invented in ancient China over 2000 years ago. In I Ching, one of the most punctual Chinese compositions refers to the use of oil in its crude from without refining, which was first found, removed, and used in parts of China in the first century BCE. 
 - The three leading oil-producing nations are Russia, Saudi Arabia, and the United States. 
 - Petroleum is a derivative formed from old fossilized natural materials, for example, **zooplankton and algae**. 
-### How is petroleum formed? [**Blog**](https://www.eia.gov/energyexplained/oil-and-petroleum-products/) 
+### [**How is petroleum formed? **](https://www.eia.gov/energyexplained/oil-and-petroleum-products/) 
 - Petroleum is a unique blend of hydrocarbons, for the most part, alkanes and cycloalkanes, originated from the vast amounts of these remaining parts settled to ocean or base of lake, blending through dregs in the absence of oxygen. As more layers sank into the ocean or sewaxy substance known as kerogen, which is found in different oil reserves worldwide, and subsequently more heat, time, and pressure are given into the fluid and vaporous hydrocabons through a process called catagenesis. The arrangement of oil happens from hydrocarbon decomposition due to variety of primarily endothermic reactions at high temperature as well as pressure. There were certain supplement-rich locations where a lot of natural material settling to the sea bottom surpassed the rate of its decomposition. This brought about huge loads of natural material being covered beneath the consequent stocks, for example, shale shaped from mud. This vast natural stock later ended up plainly warmed and changed underweight into petroleum.            
  
 ![image](https://user-images.githubusercontent.com/88390140/147521154-6c369e66-f705-428a-a9af-203c71d4d2a2.png)
