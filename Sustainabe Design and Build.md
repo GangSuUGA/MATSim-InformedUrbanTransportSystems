@@ -173,6 +173,7 @@ _________________________________________
 - Plants gain energy from sun, which is put away as a synthetic bond in the gas. 
 - Most of the natural gas is developed by two systems, namely biogenic and thermogenic. 
 - Methanogenic living organisms in swamps, landfills, and shallow residue make biogenic gas, whereas thermogenic gas is produced from covered natural material at greater depth with prominent heat and pressure. 
+- There are other energy sources of gas, such as shale gas and town gas. 
 ![image](https://user-images.githubusercontent.com/88390140/147681730-1673733b-4740-4975-a57e-7f115843c923.png)![image](https://user-images.githubusercontent.com/88390140/147681751-5fcc2e39-cf5c-4c28-8f0c-23e27892a436.png)
 
 
