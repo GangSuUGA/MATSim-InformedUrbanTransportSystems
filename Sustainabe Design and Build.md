@@ -169,7 +169,10 @@ _________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/147680833-c68d516a-82cd-4188-a913-a4d3c424fb88.png)
 - Natural gas is a typical blend of hydrocarbon gas comprising methane, yet sometimes it has some content of other alkanes and little level of carbon dioxide, nitrogen, hydrogen sulfide, or helium. 
 ### [**How is natural gas formed?**](https://www.eia.gov/energyexplained/natural-gas/) 
-- 
+- When layers of decaying plant and animal matter remain under the surface of the earth with high pressure and heat for a long time, natural gas is formed. 
+- Plants gain energy from sun, which is put away as a synthetic bond in the gas. 
+- Most of the natural gas is developed by two systems, namely biogenic and thermogenic. 
+- Methanogenic living organisms in swamps, landfills, and shallow residue make biogenic gas, whereas thermogenic gas is produced from covered natural material at greater depth with prominent heat and pressure. 
 
 
 
