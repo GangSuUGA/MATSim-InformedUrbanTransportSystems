@@ -167,7 +167,9 @@ _________________________________________
 ### 3.4 Natural Gas 
 - Natural Gas was first found in old China when they were boring for salt water. It was first used by Chinese in aruond 500 BCE. 
 ![image](https://user-images.githubusercontent.com/88390140/147680833-c68d516a-82cd-4188-a913-a4d3c424fb88.png)
-
+- Natural gas is a typical blend of hydrocarbon gas comprising methane, yet sometimes it has some content of other alkanes and little level of carbon dioxide, nitrogen, hydrogen sulfide, or helium. 
+### [**How is natural gas formed?**](https://www.eia.gov/energyexplained/natural-gas/) 
+- 
 
 
 
