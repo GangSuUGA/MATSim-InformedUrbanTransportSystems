@@ -155,6 +155,18 @@ _________________________________________
 - Latest technologies such as seismic mapping and imaging innovation have helped reserachers for signaling out gas and petroleum fields. 
 - Seismologists can expose supply of hydrocarbons by using a supersensitive sound-discharging device such as geophones, which gives bobbing movement of shake development beneath the ground. 
 - By recording the echoes and then analyzing 3D maps of them through supercomputers, it helps in finding the location of petroleum and gas fields in less time and also avoids the cost of standard exploration. 
+- There are several ways to extract energy out of the petroleu mining, such as horizontal drilling, hydraulic fracturing, deepwater drilling, and tar sands. 
+- Humans use petroleum for fueling transportation, for keeping houses warm, and also in plastic and drug industry. 
+### Environment impact of Petroleum 
+- Air Contamination: CO2, CO, SO2, NOx, VOCs, PM, lead and other air toxins (benzene, acetaldehyde, 1,3-butadiene). 
+- Corrosive Rain. 
+- Prtroleum Slicks. 
+- Unstable Natural Mixes. 
+- Climate Change. 
+
+### 3.4 Natural Gas 
+- Natural Gas was first found in old China when they were boring for salt water. It was first used by Chinese in aruond 500 BCE. 
+![image](https://user-images.githubusercontent.com/88390140/147680833-c68d516a-82cd-4188-a913-a4d3c424fb88.png)
 
 
 
