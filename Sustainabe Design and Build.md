@@ -210,6 +210,12 @@ _________________________________________
 ### 3.10 Biogas Energy 
 - Biogas produced by the decay of organic matter in the absence of oxygen is considered as a renewable source of energy. 
 - It can be produced from materials such as agricultural waste, compost, metropolitan waste, plant material, or sewage. 
+- The fundamental structure of biogas consists of methane (CH4) and CO2 and might have the small percentage of H2S, dampness, and siloxanes where mathane and hydrogen can be combusted to generate energy for cooking and heating ventilating and air conditioning (HVAC) purpose. 
+ 
+ _____________________________________________________________
+ 
+ ## Advanced Building Design 
+ - 
 
 
 
