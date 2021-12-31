@@ -119,7 +119,7 @@ _________________________________________________
 
 _________________________________________
 
-## Energy 
+## Conventional Energy 
 
 ### 3.1 Wood 
 - Wood, the most traditional conventional energy source since ancient time, is being widely used which indeed involves a complete destruction mechanism that elimates the natural resources and disturbs environmental balance. 
@@ -178,9 +178,38 @@ _________________________________________
 
 ### 3.5 Hydropower
 - Hydropower is the most reliable, developed, and practical energy source innovation available to meet the daily energy demand. 
+- The key elements of hydropower are rate of flow of liquid and water head. 
+- Hydropower is one of the clean energy sources, yet there are many negative impacts of hydropower on environment. 
+- Development of dam and power plant imposes many biology/physical changes on earth. 
+- Oceanic and earthbound biological system nourishment web gets destroyed by operating hydropower plant. 
+- Subsequently, potential effects must be analyzed, and tools such as Hydropower Sustainability Assessment Protocol and Environmental and Social Impact Assessment must be used to access the impacts of the project. 
 
+### 3.6 Nuclear Energy 
+- Radioactive element like U-235 can go through process of nuclear fission and generate abundant amount of nuclear energy. 
+- Energy liberated from 1kg U-235 undergoing nuclear process would be approximately three million times more than that released by burning 1kg coal or 12 million barrels of oil. 
+- Nuclear power is an efficient way of generating electricity in nuclear power plant by rotating turbines through steam induced by nuclear energy during nuclear reactions taking place in the reactor. 
+- The radioactive waste stream from nuclear power plant consists of mainly unconverted uranium, other transuranic actinides (mostly plutonium and curium), and fission products, which both are responsible for radioactivity causing severe earth and human health issues. 
 
+## Sustainable Energy 
+- Sustainable energy is the type of energy that meets the current demand for energy with manageable environmental impacts. 
+- In other words, it is the energy framework that **satisfies present requirement without compensating needs of future generation**. 
+- The sustainable energy sources are the pilliars of sustainable energy, and use of them decreases the reliance on fossil fuels and gives a chance to alleviate GHGs. 
 
+### 3.7 Solar 
+- Solar-based energy is using technologies to harness sun's light and energy to provide heat, electricity, and cooling. 
+
+### 3.8 Wind Energy 
+- Wind energy is utilization of wind to rotate the blades of turbine which is connected to generator to produce electricity. 
+
+### 3.9 Geothermal Energy 
+- The geothermal energy is energy stored inside the earth, originated from the planet and the radioactive waste. 
+- The geothermal gradient called magma is the difference in temperature between the earth's surface and center of the earth, and it drives a continues conduction of heat from the center of the planet to its cover. 
+- The temperature at the core-mantle may reach as high as 4000 C. 
+- In this system, cold water seeps into the hot earth's crust, heats up, and rises to earth's surface as steam. 
+
+### 3.10 Biogas Energy 
+- Biogas produced by the decay of organic matter in the absence of oxygen is considered as a renewable source of energy. 
+- It can be produced from materials such as agricultural waste, compost, metropolitan waste, plant material, or sewage. 
 
 
 
