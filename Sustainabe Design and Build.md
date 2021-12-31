@@ -195,7 +195,7 @@ _________________________________________
 - In other words, it is the energy framework that **satisfies present requirement without compensating needs of future generation**. 
 - The sustainable energy sources are the pilliars of sustainable energy, and use of them decreases the reliance on fossil fuels and gives a chance to alleviate GHGs. 
 
-### 3.7 Solar 
+### 3.7 Solar Energy 
 - Solar-based energy is using technologies to harness sun's light and energy to provide heat, electricity, and cooling. 
 
 ### 3.8 Wind Energy 
