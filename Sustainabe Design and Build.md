@@ -28,6 +28,7 @@ refer to factors that are likely to shape the climate. There are either external
 - Heat from radioactive compound decay, tidal energy from the moon, and geothermal energy from the Earth's core are other sources of energy input to the Earth besides the Sun, which is the leading source. 
 
 ### Climate Change Evidence 
+![image](https://user-images.githubusercontent.com/88390140/147860206-0684f67a-ad1f-4b3b-a162-5b3b16ffca63.png)
 ![image](https://user-images.githubusercontent.com/88390140/146868327-c4b02668-e258-4d52-b1d6-98ea62b45c59.png)
 - Among the most sensitive climate change indicators are glaciers, whose size is calculated by a mass balance amid snow input and the melt output. 
 - Glacier always retreat as temperatures become warm except in the case where the partcipation of snow rises to make up for added melt. 
@@ -216,7 +217,8 @@ _________________________________________
  _____________________________________________________________
  
  ## Advanced Building Design 
- - 
+ - The population growth and industrial development are serious impacting envirionment because conventional energy generation processes are polluting the environment and causing the climate change. 
+ - Global demand for energy services is expected to increase by as much as one order of magnitude by 2050, whereas primary energy demands are expected to increase by nearly two times.  
 
 
 
