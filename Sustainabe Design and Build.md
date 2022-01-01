@@ -3,6 +3,7 @@
 ___________________________________ 
 ### ☕ This book provides a complete reference for those engineers and scientists wishing to conduct sustainability research in all sectors of applied science and engineering. ☕ 
 _________________________________
+🌇Atmospheric concentration of greenhouse gases (GHGs) is trapping heat radiated from the earth's surface, thereby causing global warming and environmental problems such as greenhouses effect, startospheric ozone depletion, acid precipitation, and flooding of coastal settlements. 
 
 ## Climate Change 
 - The climate change mechanism refers to a change in weather pattern's statistical distribution when the changes last for a long period of time. 
