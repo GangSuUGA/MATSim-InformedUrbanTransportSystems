@@ -47,7 +47,7 @@ refer to factors that are likely to shape the climate. There are either external
 ______________________________________
 
 ## Introduction: 
-### 1.1 **Sustainabile Environment**:
+### 1.1 **Sustainable Environment**:
 the biological systems must remain productive and diverse for an indefinite period of time. 
 
 ### 1.2 **Sustainable energy** 
