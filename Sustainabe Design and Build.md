@@ -199,6 +199,8 @@ _________________________________________
 
 ### 3.7 Solar Energy 
 - Solar-based energy is using technologies to harness sun's light and energy to provide heat, electricity, and cooling. 
+![image](https://user-images.githubusercontent.com/88390140/147863366-1bac7895-630d-46e2-a881-adab64acb031.png)![image](https://user-images.githubusercontent.com/88390140/147863372-1cc57289-35ad-4913-b2b6-076ac95c443c.png)![image](https://user-images.githubusercontent.com/88390140/147863377-e8f4694e-bcce-4737-a05b-88091bc7b861.png)
+
 
 ### 3.8 Wind Energy 
 - Wind energy is utilization of wind to rotate the blades of turbine which is connected to generator to produce electricity. 
