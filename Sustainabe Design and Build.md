@@ -233,6 +233,8 @@ _________________________________________
 - Solar Photovoltaic Pumping System                        
 ![image](https://user-images.githubusercontent.com/88390140/147863827-f18cc90d-c877-4c70-8590-cbe30565d091.png)([**Figure Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FPhotovoltaic-pumping-system-1_fig1_326651131&psig=AOvVaw0zjSot55qwZtJoS3nQ_9XW&ust=1641173754895000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj73oz3kfUCFQAAAAAdAAAAABAp))
 
+- Solar Water Heating System                                     
+![image](https://user-images.githubusercontent.com/88390140/147863841-8eb8a875-5786-4ac8-9ce5-d829b5296f84.png)([**Figure Link**](http://pamasenergy.weebly.com/uploads/1/1/6/6/11662049/2538440_orig.jpg))
 
 
 
