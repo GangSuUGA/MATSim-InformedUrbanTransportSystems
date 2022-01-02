@@ -227,6 +227,9 @@ _________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/147863553-099ef84a-c4a7-4a10-a517-734b85efcf7d.png) ([**Figure Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F20%2F5546%2Fpdf&psig=AOvVaw13dgb-2LJ919fhyyjhYMCQ&ust=1641172029747000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCMi-udzwkfUCFQAAAAAdAAAAABAM))
 ![image](https://user-images.githubusercontent.com/88390140/147863602-22245c9e-5732-4fde-80e6-825954ffab3a.png)([**Figure Link**](https://dspace.mit.edu/handle/1721.1/81661))
 ![image](https://user-images.githubusercontent.com/88390140/147863663-766d3dac-16bb-4e12-b2f9-709c204bb985.png)([**Figure Link**](https://www.ntnu.no/wiki/download/attachments/48431699/Master-Basnet.pdf?version=1&modificationDate=1339765553175))
+![image](https://user-images.githubusercontent.com/88390140/147863679-4fd909f9-f31a-4cd8-be2e-fe4f39232cbe.png)
+![image](https://user-images.githubusercontent.com/88390140/147863684-d4029349-3a50-4eee-9bb9-d7ed600e1e64.png)
+![image](https://user-images.githubusercontent.com/88390140/147863685-cea06fdc-a482-4a53-bc87-90fc4c140b2d.png)
 
 
 
