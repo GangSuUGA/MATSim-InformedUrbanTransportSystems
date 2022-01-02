@@ -224,22 +224,28 @@ _________________________________________
  - Global demand for energy services is expected to increase by as much as one order of magnitude by 2050, whereas primary energy demands are expected to increase by nearly two times.  
  - Because the fossil energy resources are finite, Marion King Hubbert at Shell (1956) predicted that crude oil production in the world would peak around 1970, then it will start to decline due to the shortage of fossil fuel. 
 
-- Solar Panel                 
+### Solar Panel                 
 ![image](https://user-images.githubusercontent.com/88390140/147863553-099ef84a-c4a7-4a10-a517-734b85efcf7d.png) ([**Figure Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F20%2F5546%2Fpdf&psig=AOvVaw13dgb-2LJ919fhyyjhYMCQ&ust=1641172029747000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCMi-udzwkfUCFQAAAAAdAAAAABAM))
 ![image](https://user-images.githubusercontent.com/88390140/147863602-22245c9e-5732-4fde-80e6-825954ffab3a.png)([**Figure Link**](https://dspace.mit.edu/handle/1721.1/81661))
 ![image](https://user-images.githubusercontent.com/88390140/147863663-766d3dac-16bb-4e12-b2f9-709c204bb985.png)([**Figure Link**](https://www.ntnu.no/wiki/download/attachments/48431699/Master-Basnet.pdf?version=1&modificationDate=1339765553175))
 ![image](https://user-images.githubusercontent.com/88390140/147863679-4fd909f9-f31a-4cd8-be2e-fe4f39232cbe.png)
 
-- Solar Photovoltaic Pumping System                        
+### Solar Photovoltaic Pumping System                        
 ![image](https://user-images.githubusercontent.com/88390140/147863827-f18cc90d-c877-4c70-8590-cbe30565d091.png)([**Figure Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FPhotovoltaic-pumping-system-1_fig1_326651131&psig=AOvVaw0zjSot55qwZtJoS3nQ_9XW&ust=1641173754895000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj73oz3kfUCFQAAAAAdAAAAABAp))
 
-- Solar Water Heating System                                     
+### Solar Water Heating System                                     
 ![image](https://user-images.githubusercontent.com/88390140/147863841-8eb8a875-5786-4ac8-9ce5-d829b5296f84.png)([**Figure Link**](http://pamasenergy.weebly.com/uploads/1/1/6/6/11662049/2538440_orig.jpg))
 
-- Biogas Conversion from Human Feces and Domestic Waste                                       
+### Biogas Conversion from Human Feces and Domestic Waste                                       
 ![image](https://user-images.githubusercontent.com/88390140/147863923-4c20674e-8494-4133-a305-e89ddcb04bf1.png)([**Waste to Energy**](https://www.basicknowledge101.com/categories/wasteenergy.html))
 
+### Cool and Heat the Building Naturally 
+- Traditional cooling and heating systems adopted by the building sector are problematic as they contribute to climate change and threaten the ozone layer. 
+- To mitigate these potentially catastrophic effects, the present reseachers have proposed transforming solar irradiation into cooled photons by implementing the Bose-Einstein photon distribution mechanism on helium-assisteed curtain walls, which can be installed on the external surfaces of buildings. 
+- The cooled photons are then available for cooling the building. 
 
+### Building Information Modeling (BIM) 
+- 
 
 
 
