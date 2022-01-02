@@ -236,6 +236,8 @@ _________________________________________
 - Solar Water Heating System                                     
 ![image](https://user-images.githubusercontent.com/88390140/147863841-8eb8a875-5786-4ac8-9ce5-d829b5296f84.png)([**Figure Link**](http://pamasenergy.weebly.com/uploads/1/1/6/6/11662049/2538440_orig.jpg))
 
+- Biogas Conversion from Human Feces and Domestic Waste                                       
+![image](https://user-images.githubusercontent.com/88390140/147863923-4c20674e-8494-4133-a305-e89ddcb04bf1.png)([**Waste to Energy**](http://pamasenergy.weebly.com/uploads/1/1/6/6/11662049/2538440_orig.jpg))
 
 
 
