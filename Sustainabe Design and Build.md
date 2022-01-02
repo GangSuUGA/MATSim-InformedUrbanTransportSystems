@@ -224,11 +224,11 @@ _________________________________________
  - Global demand for energy services is expected to increase by as much as one order of magnitude by 2050, whereas primary energy demands are expected to increase by nearly two times.  
  - Because the fossil energy resources are finite, Marion King Hubbert at Shell (1956) predicted that crude oil production in the world would peak around 1970, then it will start to decline due to the shortage of fossil fuel. 
 
-![image](https://user-images.githubusercontent.com/88390140/147863602-22245c9e-5732-4fde-80e6-825954ffab3a.png)(Figure from [**Link**](https://dspace.mit.edu/handle/1721.1/81661) 
+![image](https://user-images.githubusercontent.com/88390140/147863602-22245c9e-5732-4fde-80e6-825954ffab3a.png)(Figure from [**Link**](https://dspace.mit.edu/handle/1721.1/81661) )
 
 
 
-![image](https://user-images.githubusercontent.com/88390140/147863553-099ef84a-c4a7-4a10-a517-734b85efcf7d.png) (Figure from [**Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F20%2F5546%2Fpdf&psig=AOvVaw13dgb-2LJ919fhyyjhYMCQ&ust=1641172029747000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCMi-udzwkfUCFQAAAAAdAAAAABAM) 
+![image](https://user-images.githubusercontent.com/88390140/147863553-099ef84a-c4a7-4a10-a517-734b85efcf7d.png) (Figure from [**Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F20%2F5546%2Fpdf&psig=AOvVaw13dgb-2LJ919fhyyjhYMCQ&ust=1641172029747000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCMi-udzwkfUCFQAAAAAdAAAAABAM) )
 
 
 
