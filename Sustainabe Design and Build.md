@@ -222,6 +222,11 @@ _________________________________________
  ## Advanced Building Design 
  - The population growth and industrial development are serious impacting envirionment because conventional energy generation processes are polluting the environment and causing the climate change. 
  - Global demand for energy services is expected to increase by as much as one order of magnitude by 2050, whereas primary energy demands are expected to increase by nearly two times.  
+ - Because the fossil energy resources are finite, Marion King Hubbert at Shell (1956) predicted that crude oil production in the world would peak around 1970, then it will start to decline due to the shortage of fossil fuel. 
+
+![image](https://user-images.githubusercontent.com/88390140/147863535-bbd58e84-bba4-46ab-b6fb-21f3ced3b145.png)
+![image](https://user-images.githubusercontent.com/88390140/147863553-099ef84a-c4a7-4a10-a517-734b85efcf7d.png) (Figure from [**Link**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F20%2F5546%2Fpdf&psig=AOvVaw13dgb-2LJ919fhyyjhYMCQ&ust=1641172029747000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCMi-udzwkfUCFQAAAAAdAAAAABAM) 
+
 
 
 
