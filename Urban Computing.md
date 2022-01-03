@@ -10,4 +10,5 @@ ____________________________________
 - Computing technology: Artificial Intelligence (AI). ⬆️ 
 
 ### Definition: 
-- Urban computing aims to unlock the power of knowledge from urban data to solve major issues in cities, resulting in a win-win-win situation among people, city operation systems, and the environment. ![image](https://user-images.githubusercontent.com/88390140/147893147-c2b7f2bf-233b-435b-8443-8fa4b1f41c32.png)
+- Urban computing aims to unlock the power of knowledge from urban data to solve major issues in cities, resulting in a win-win-win situation among people, city operation systems, and the environment.                            
+![image](https://user-images.githubusercontent.com/88390140/147893147-c2b7f2bf-233b-435b-8443-8fa4b1f41c32.png)
