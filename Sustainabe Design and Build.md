@@ -265,7 +265,8 @@ _________________________________________
 - BIM in Land Administration and CAdastre. 
 
 ### Energy Simulation and Building Performance Model 
-![image](https://user-images.githubusercontent.com/88390140/148001498-ab14a1b0-c53c-4ede-b3fb-0f40a711e0f3.png)([**Figure Link**](https://www.e3d.rwth-aachen.de/go/id/jtdg/lidx/1)
+![image](https://user-images.githubusercontent.com/88390140/148001630-c4893e5f-f147-47de-9080-63f3bb3c077b.png)([**Figure Link**](https://www.e3d.rwth-aachen.de/go/id/jtdg/lidx/1))
+
 ### Smart Building Technology 
 
 
