@@ -245,8 +245,28 @@ _________________________________________
 - The cooled photons are then available for cooling the building. 
 
 ### Building Information Modeling (BIM) 
-- 
+[**What is BIM**](https://www.lodplanner.com/what-is-bim/)
+#### Backgroud
+- With the increase in knowledge of energy utilization in addition to the environmental effect of the operations of the building, it is required that more considerations are made by the architects, designers, and planners on sustainability and energy functioning of the building. 
+- Crucial design choices must be made by important parties initially in the design-development phase to ensure most of these points are shown in the building functioning. 
 
+![image](https://user-images.githubusercontent.com/88390140/148001237-a35985ca-a8d1-4dfa-8f4c-5cfa4cc47125.png)
+
+#### Definition: 
+- BIM represents a process that involves generating and managing digital/vitural representations of natural and working features of places. 
+- BIMs are documents that can be extracted, replaced, or exchanged and thus assist in arriving at a conclusion about any infrastructures such as roads, bridges, ports, tunnels, communication utilities, water, gas, electricity, refuse, and so forth. 
+
+#### Application: 
+- Conventional building design (like Computer Aided Design (CAD)) was heavily dependent on 2D technica drawing which included plans, sections, elevations, and so forth. 
+- BIM takes this to a new level, even past 3D, supplementing the three main spatial dimensions (width, height, and depth) with the additional fourth dimension as time (4D) and fifth one as cost (5D). 
+- BIM usage is not only limited to the planning and design stage of the project but also spans all through the building life cycle. 
+- BIM in Construction Management. 
+- BIM in FAcility Operation. 
+- BIM in Land Administration and CAdastre. 
+
+### Energy Simulation and Building Performance Model 
+
+### Smart Building Technology 
 
 
 
