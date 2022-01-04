@@ -42,7 +42,7 @@ refer to factors that are likely to shape the climate. There are either external
 - Hazardous air pollutants are usually emitting from fossil fuel and gas extraction and processing industries; hydrocarbon and dioxin emissions are caused by the use and combustion of petrol and diesel oil for transport; and radionuclides are released during the burning/combustion of gas, petroleum, coal, and heavy fuel oil. 
 - Excessive concentraions of these pollutants have demonstrated health, welfare, and ecological effects felt globally in addition to climate change. 
 - The changing climate is thus impacting the global environment severely, such as causing flood or draught, the influence of agricultural crop yields, affect human health, and destroy ecosystems are causing due to this climate change. 
-- :star:**So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.**:star: 
+- 🧚**So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.** 🧚
 - Indeed, we can individually do something great by applying sustainable technologies in every sector and collectively helping to create gloval view for the development of the sustainable technology for confirming a cleaner and greener earth. 
 
 ______________________________________
@@ -94,7 +94,7 @@ _________________________________________________
 
 ### 2.1 Air 
 - Currently the atmospheric CO2 is 400 ppm （continues to rapid increase),  60,000 ppm means all living being will die in 30 mins. 
-- :star::star::star::star::star: [**CO2 Link**](https://netl.doe.gov/coal/carbon-storage/faqs/carbon-dioxide-101) 
+- [**CO2 Link**](https://netl.doe.gov/coal/carbon-storage/faqs/carbon-dioxide-101)
 
 ### 2.2 Wastewater 
 - The conventional wastewater treatment has the lack of suspended particulate matter analysis and good analytical approaches which results in aquatic environment and agricultural land got pollutant and hence poison organisms. 
