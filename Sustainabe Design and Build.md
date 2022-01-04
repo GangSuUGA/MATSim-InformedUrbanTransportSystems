@@ -275,6 +275,7 @@ _________________________________________
 
 ![image](https://user-images.githubusercontent.com/88390140/148002622-32ca81df-1316-4329-85e5-f2b2ebc38304.png)([**Figure Link**](https://www.openpr.com/news/1703555/building-automation-and-control-system-market-bacs-market-till-2025-top-global-key-players-honeywell-building-solutions-siemens-building-tech-schneider-systems-services-johnson-controls-building-efficiency.html))
 
+## Resilience in Urban and Rural Development 
 
 
 
