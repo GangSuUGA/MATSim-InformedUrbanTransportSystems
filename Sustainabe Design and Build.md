@@ -244,7 +244,7 @@ _________________________________________
 - The cooled photons are then available for cooling the building. 
 
 ### Building Information Modeling (BIM) 
-[**What is BIM**](https://www.lodplanner.com/what-is-bim/)
+- [**What is BIM**](https://www.lodplanner.com/what-is-bim/)
 #### Backgroud
 - With the increase in knowledge of energy utilization in addition to the environmental effect of the operations of the building, it is required that more considerations are made by the architects, designers, and planners on sustainability and energy functioning of the building. 
 - Crucial design choices must be made by important parties initially in the design-development phase to ensure most of these points are shown in the building functioning. 
