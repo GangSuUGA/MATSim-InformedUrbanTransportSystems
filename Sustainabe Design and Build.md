@@ -267,8 +267,11 @@ _________________________________________
 ### Energy Simulation and Building Performance Model 
 ![image](https://user-images.githubusercontent.com/88390140/148001630-c4893e5f-f147-47de-9080-63f3bb3c077b.png)([**Figure Link**](https://www.e3d.rwth-aachen.de/go/id/jtdg/lidx/1))
 
-### Smart Building Technology 
-
+### Building Automation System (BAS) 
+- Smart building technology, through a building automation system (BAS), is the concentrated controller of the facility's heating, lighting, air conditioning and ventilation, and energy supply via automation. 
+- Improvement in the comfort of the occupants, effective operation of building systems, reducing the operating cost and energy consumption, and improvement in the life cycle of utilities are the objectives of building automation. 
+- In addition to controlling indoor and outdoor lighting, modern BAS can also help in controlling fire alarm, security, and almost everything else that uses electricity in the building. 
+- Constituent: Portocols, Sensors, Controls and Controller. 
 
 
 
