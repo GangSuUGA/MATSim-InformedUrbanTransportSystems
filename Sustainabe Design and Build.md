@@ -52,7 +52,7 @@ ______________________________________
 the biological systems must remain productive and diverse for an indefinite period of time. 
 
 ### 1.2 **Sustainable energy** 
-is an urgent demand to serve the needs of the present without compromissing the ability of future generations to meet their needs. 
+is an urgent demand to ⭐**serve the needs of the present without compromissing the ability of future generations to meet their needs**⭐. 
 - Types of renewable energy: hydroelectricity, solar energy, wind energy, wave power, geothermal energy, bioenergy, tidal power, and technologies to improve energy effciency. 
 
 - Changes that need to be made on the present-day conventional energy consumption will not only be on **how energy is supplied** but also on **how it is used**, and it is important to reduce the volume of energy needed to deliver different goods and/or services. 
