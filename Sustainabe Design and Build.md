@@ -22,7 +22,6 @@ refer to factors that are likely to shape the climate. There are either external
 
 ### External Climate Forcing 
 - Modifications in the periodic supply of sunlight reaching the surface of the Earth and the way it is supplied across the world are caused by orbital differences in the motion of the Earth. 
-- Although there exists very slight change to the area-averaged yearly averaged sunshine, strong alterations within seasonal and geographical distribution can exist. 
 - **Earth's axis procession**, modifications in the **Earth's axis tilt angle of rotation**, and **differences in Earth's eccentricity** are the three kinds of kinematic change. 
 - If these three kinds of kinematic change are jointed together, they will produce **Milankovitch cycles**, which have great effect on the Earth's climate and are visible for their appearance in the stratigraphic record, their connection with the Sahara retreat and advance, and for their connection to interglacial and glacial periods. 
 - Heat from radioactive compound decay, tidal energy from the moon, and geothermal energy from the Earth's core are other sources of energy input to the Earth besides the Sun, which is the leading source. 
@@ -35,7 +34,7 @@ refer to factors that are likely to shape the climate. There are either external
 ![image](https://user-images.githubusercontent.com/88390140/146868521-2373a57a-99d9-46fb-8063-a827a37113d8.png)
 - Over the last many years, the decrease in Arctic sea ice, both in thickness and extent, is more proof for rapid change in the Earth's climate. 
 - Based on the satellite observation, presently sea ice is decreasing at a rate of 13.2% for each decade. 
-- Other indictors of climate changing are vegetation, forest genetic resources, cloud cover and precipitation, and sea level change. 
+- Other indictors of climate changing are **vegetation, forest genetic resources, cloud cover and precipitation, and sea level change**. 
 
 ### **Motivation and Conclusion** 
 - Despite some impact by natural process, the evidence stated that climate change is mainly caused by human activities, primarily burning fossil fuel, land-use changes, and misuse of natural resources. 
