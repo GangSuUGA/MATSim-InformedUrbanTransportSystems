@@ -45,6 +45,21 @@ refer to factors that are likely to shape the climate. There are either external
 - 🧚**So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.** 🧚
 - Indeed, we can individually do something great by applying sustainable technologies in every sector and collectively helping to create gloval view for the development of the sustainable technology for confirming a cleaner and greener earth. 
 
+_____________________________________
+
+## Resilient City 
+- **Smart City = managing urban data + real-time reactions** 
+- For the effective management of assets and resources, if an urban zone used various kinds of electrical information gathering sensors for supplying data (transportation, power plant, law enforcement, water supply connectivity, waste management, information systems, and other community services), then it is called a **smart city**🌇. 
+- Information and communication technology (ICT), as well as the Internet of things (IoT), help in monitoring whatever is going on in the town and also examines how the town is developing. 
+#### ICT serves various purposes: 
+(1) improves ability and working of urban facilities; 
+(2) reduces amount and resource utlization; 
+(3) increases connection between the citizens and the government. 
+
+- Challenges in City: climate change, pollution, taffic congestion, energy consumption, pandemic disease, economic rearrangement, the transition toward online retails and entertainment, aging populations, pressures on public finances, and urban population growth. 
+- 
+
+
 ______________________________________
 
 ## Introduction: 
@@ -60,11 +75,6 @@ is an urgent demand to ⭐**serve the needs of the present without compromissing
 ### 1.3 **Sustainable building** 
 refer to both the structure and the application of processes that are environmentally responsible and resource efficient throughout a building's life cycle from planning to design, constructure, operation, maintenance, renovation, and demolition. 
 - All over the world, buildings have been identified to consume very large portions of natural resources including water and energy. In the present day, buildings are responsible for 40% of the worldwide CO2 emissions, which is equal to 9 billion tons of carbon dioxide yearly, and by 2050, these emissions are likely to double. 
-- Utilizing sunlight via photovoltaic equipment, active annd passive solar, trees and planets via rainwater runoff reduction, rain gardens, and green roofs. 
-- Utilizing low-effect constructing materials and using permeable concrete or packed gravel rather than asphalt or conventional concrete to improve groundwater replenishment . 
-- **Design clean building**: identifying "green" materials of building from indigenous sources, reducing loads, optimizing systems, and finally producing on-site renewable energy. 
-
-- **Traditional (Building&Transportation) Infrastructure** is causing losses lands. Progressively, the biodiversity loss within the environment mainly from the habitat fragmentation and loss. (as well as agriculture.) 
 
 ### 1.4 **Sustainable Transportation**: 
 the advanced vehicle technology to be used for road, water, or air transport by using renewable and clean energy, where the infrastructure should be able to accommodate the clean fuel-operated transport to mitigate energy and traffic jam crisis. 
