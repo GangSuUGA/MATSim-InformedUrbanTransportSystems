@@ -71,13 +71,13 @@ _____________________________________
 ### 1.1 **Sustainable Environment**:
 the biological systems must remain productive and diverse for an indefinite period of time. 
 
-### 1.2 **Sustainable energy** 
+### 1.2 **Sustainable Energy** 
 is an urgent demand to ⭐**serve the needs of the present without compromissing the ability of future generations to meet their needs**⭐. 
 - Types of renewable energy: hydroelectricity, solar energy, wind energy, wave power, geothermal energy, bioenergy, tidal power, and technologies to improve energy effciency. 
 
 - Changes that need to be made on the present-day conventional energy consumption will not only be on **how energy is supplied** but also on **how it is used**, and it is important to reduce the volume of energy needed to deliver different goods and/or services. 
 
-### 1.3 **Sustainable building** 
+### 1.3 **Sustainable Building** 
 refer to both the structure and the application of processes that are environmentally responsible and resource efficient throughout a building's life cycle from planning to design, constructure, operation, maintenance, renovation, and demolition. 
 - All over the world, buildings have been identified to consume very large portions of natural resources including water and energy. In the present day, buildings are responsible for 40% of the worldwide CO2 emissions, which is equal to 9 billion tons of carbon dioxide yearly, and by 2050, these emissions are likely to double. 
 
