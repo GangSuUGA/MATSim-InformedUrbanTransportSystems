@@ -47,8 +47,7 @@ refer to factors that are likely to shape the climate. There are either external
 
 _____________________________________
 
-## Resilient City 
-- **Smart City = managing urban data + real-time reactions** 
+## **Smart City = managing urban data + real-time reactions** 
 - For the effective management of assets and resources, if an urban zone used various kinds of electrical information gathering sensors for supplying data (transportation, power plant, law enforcement, water supply connectivity, waste management, information systems, and other community services), then it is called a **smart city**🌇. 
 - Information and communication technology (ICT), as well as the Internet of things (IoT), help in monitoring whatever is going on in the town and also examines how the town is developing. 
 #### ICT serves various purposes:              
@@ -57,8 +56,6 @@ _____________________________________
 (3) increases connection between the citizens and the government.                   
 
 - Challenges in City: climate change, pollution, taffic congestion, energy consumption, pandemic disease, economic rearrangement, the transition toward online retails and entertainment, aging populations, pressures on public finances, and urban population growth. 
-- 
-
 
 ______________________________________
 
