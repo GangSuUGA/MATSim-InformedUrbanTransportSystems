@@ -3,6 +3,26 @@
 ___________________________________ 
 ### ☕ This book provides a complete reference for those engineers and scientists wishing to conduct sustainability research in all sectors of applied science and engineering. ☕ 
 _________________________________
+
+## **Smart City = managing urban data + real-time reactions** 
+- For the effective management of assets and resources, if an urban zone used various kinds of electrical information gathering sensors for supplying data (transportation, power plant, law enforcement, water supply connectivity, waste management, information systems, and other community services), then it is called a **smart city**🌇. 
+- Information and communication technology (ICT), as well as the Internet of things (IoT), help in monitoring whatever is going on in the town and also examines how the town is developing. 
+#### ICT serves various purposes:              
+(1) improves ability and working of urban facilities;             
+(2) reduces amount and resource utlization;                  
+(3) increases connection between the citizens and the government.                   
+
+- Challenges in City: **climate change**, pollution, taffic congestion, energy consumption, pandemic disease, economic rearrangement, the transition toward online retails and entertainment, aging populations, pressures on public finances, urban sprawl, and urban population growth. 
+______________________________________________________            
+## Resilient Infrastructure 
+- Resilience, an important term introduced in sustainable infrastructure system, which is similar to "autonomous adaptation," responds to change in conditions by the adaptive capacity through applying proper planning and practicing flexible solutions on environment-friendly technological applications. 
+
+
+
+
+
+______________________________________________________      
+
 🌇Atmospheric concentration of greenhouse gases (GHGs) is trapping heat radiated from the earth's surface, thereby causing global warming and environmental problems such as greenhouses effect, startospheric ozone depletion, acid precipitation, and flooding of coastal settlements. 
 
 ## Climate Change 
@@ -45,19 +65,7 @@ refer to factors that are likely to shape the climate. There are either external
 - 🧚**So, what can we do because we are the first generation with the tools is to see how global environmental system is running toward danger due to the conventional system of natural resource consumption, at the same time, we are the last generation with the tools to prevent these dangers.** 🧚
 - Indeed, we can individually do something great by applying sustainable technologies in every sector and collectively helping to create gloval view for the development of the sustainable technology for confirming a cleaner and greener earth. 
 
-_____________________________________
-
-## **Smart City = managing urban data + real-time reactions** 
-- For the effective management of assets and resources, if an urban zone used various kinds of electrical information gathering sensors for supplying data (transportation, power plant, law enforcement, water supply connectivity, waste management, information systems, and other community services), then it is called a **smart city**🌇. 
-- Information and communication technology (ICT), as well as the Internet of things (IoT), help in monitoring whatever is going on in the town and also examines how the town is developing. 
-#### ICT serves various purposes:              
-(1) improves ability and working of urban facilities;             
-(2) reduces amount and resource utlization;                  
-(3) increases connection between the citizens and the government.                   
-
-- Challenges in City: climate change, pollution, taffic congestion, energy consumption, pandemic disease, economic rearrangement, the transition toward online retails and entertainment, aging populations, pressures on public finances, and urban population growth. 
-
-______________________________________
+_____________________________________        
 
 ## Introduction: 
 ### 1.1 **Sustainable Environment**:
