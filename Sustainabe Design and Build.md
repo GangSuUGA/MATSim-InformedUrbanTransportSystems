@@ -291,8 +291,12 @@ _________________________________________
 ## Green Infrastructure 
 
 - Storm water is an important part in water cycle; however, when rain falls onto the roofs, streets, parking lots, and concrete or other impermeable materials, it cannot reach the soil. 
-- Therefore the storm water drainage system uses gutters, storm swers, and other engineering collection methods to collect the water and discharge to nearest water body, which cause the storm water runoff to become one of the major causes of water pollution and leads to a disaster for the infrastructure in urban areas because of the trash, bacteria, heavy metals, and other pollutnats its carries. 
-- Besides, high water flow caused by heavy rains may also lead to erosion and flooding. 
+- Therefore the storm water drainage system uses gutters, storm swers, and other engineering collection methods to collect the water and discharge to nearest water body, which cause the storm water runoff to become one of the major causes of water pollution and leads to a disaster for the infrastructure in urban areas because of the trash, bacteria, heavy metals, and other pollutnats its carries. Besides, high water flow caused by heavy rains may also lead to erosion and flooding. 
+
+#### The way of controlling storm water 
+- Green Alleys 
+- Permeable Pavement 
+- 
 
 
 
