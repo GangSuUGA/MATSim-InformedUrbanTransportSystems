@@ -16,6 +16,7 @@ _______________________________________________
 ___________________________________________________________
 
 ## 1. Introduction 
-
+- There is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. 
+- Mobility and accessibility are major determinants of lifestyle and prosperity. 
 
 
