@@ -11,6 +11,8 @@ _________________________________________________
 - Classification and Regression Tree, CART. 
 
 ![image](https://user-images.githubusercontent.com/88390140/168667528-380d9a8f-60a2-43ff-adae-247704e9dfc3.png)
+
+## Method 
 ![image](https://user-images.githubusercontent.com/88390140/168667745-db44c49c-7b42-4e66-8c0e-e081fb052dd6.png)
 ![image](https://user-images.githubusercontent.com/88390140/168667929-41f39e75-3563-4622-98dd-b1745d778d40.png)
 ![image](https://user-images.githubusercontent.com/88390140/168668011-2adb9303-3961-41db-b6ef-77ca62d42489.png)
