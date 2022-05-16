@@ -14,9 +14,11 @@ _________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/168667929-41f39e75-3563-4622-98dd-b1745d778d40.png)
 
 ## Classification 
-
 ![image](https://user-images.githubusercontent.com/88390140/168667528-380d9a8f-60a2-43ff-adae-247704e9dfc3.png)
 ![image](https://user-images.githubusercontent.com/88390140/168668011-2adb9303-3961-41db-b6ef-77ca62d42489.png)
 ![image](https://user-images.githubusercontent.com/88390140/168668038-31175536-1d25-4669-b243-01abb6e2d6d5.png)
 ![image](https://user-images.githubusercontent.com/88390140/168668380-822fc14b-286e-4b40-b8f3-18f092e8e410.png)
+
+## Regression 
+![image](https://user-images.githubusercontent.com/88390140/168668986-787f6144-2b74-449f-9319-1ce89ec4c571.png)
 
