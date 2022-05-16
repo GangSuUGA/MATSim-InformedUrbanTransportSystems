@@ -21,4 +21,6 @@ _________________________________________________
 
 ## Regression 
 ![image](https://user-images.githubusercontent.com/88390140/168669070-dd3eaeb6-5172-4980-8542-a9fd47d40be8.png)
+![image](https://user-images.githubusercontent.com/88390140/168669312-ffce7fad-0b4a-49f7-aac5-6df4c4b756f1.png)
+
 
