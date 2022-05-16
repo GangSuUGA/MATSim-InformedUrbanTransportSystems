@@ -20,5 +20,5 @@ _________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/168668380-822fc14b-286e-4b40-b8f3-18f092e8e410.png)
 
 ## Regression 
-![image](https://user-images.githubusercontent.com/88390140/168668986-787f6144-2b74-449f-9319-1ce89ec4c571.png)
+![image](https://user-images.githubusercontent.com/88390140/168669070-dd3eaeb6-5172-4980-8542-a9fd47d40be8.png)
 
